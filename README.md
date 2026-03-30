@@ -104,3 +104,7 @@ Project/
 **Issue:** Incomplete captions
 - **Solution:** This is normal. Captions are limited to 50 tokens for brevity. Modify `max_new_tokens` in the code if needed.
 
+**Recording Demo**
+
+https://github.com/user-attachments/assets/392a4412-2826-4a8e-b074-9505257c4629
+
